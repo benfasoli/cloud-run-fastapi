@@ -1,0 +1,19 @@
+# Caches
+__pycache__
+*.pyc
+*.so
+.ipynb_checkpoints
+
+# Environment
+env
+.env
+.venv
+
+# Dependencies
+node_modules
+
+# Misc
+.DS_Store
+*.icloud
+.Rhistory
+.pytest_cache
